@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbb3116e-1989-4671-bab9-1420c5e147ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1dbvXDGXAuRnpRVO0pQbJigAFIo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ServiceMotor" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projek Kawan\Abi\Api\ApiServisMotor\routes" />
+      <recent name="D:\Projek Kawan\Abi\Api\ApiServisMotor\model" />
+      <recent name="D:\Projek Kawan\Abi\Api\ApiServisMotor\controller" />
+      <recent name="D:\Projek Kawan\Abi\Api\ApiServisMotor" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbb3116e-1989-4671-bab9-1420c5e147ae" name="Default Changelist" comment="" />
+      <created>1592706644438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592706644438</updated>
+      <workItem from="1592706645995" duration="7280000" />
+      <workItem from="1594215465897" duration="7775000" />
+      <workItem from="1594264477650" duration="2269000" />
+      <workItem from="1594354082098" duration="5379000" />
+      <workItem from="1594557873362" duration="715000" />
+      <workItem from="1594560413152" duration="668000" />
+      <workItem from="1594565426791" duration="1876000" />
+      <workItem from="1594586034641" duration="1937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="118" key="FileChooserDialogImpl" timestamp="1594586053826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="804" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594586053826" />
+  </component>
+</project>
